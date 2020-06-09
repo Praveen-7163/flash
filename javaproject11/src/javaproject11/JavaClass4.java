@@ -7,6 +7,7 @@ public class JavaClass4 {
 		System.out.println("praveen");
                 System.out.println("currently pursuing btech 3rd year in nitc");
                 System.out.println("kumar");
+                System.out.println("new branch is created");
 	}
 
 }
