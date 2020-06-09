@@ -6,7 +6,7 @@ public class JavaClass4 {
 		// TODO Auto-generated method stub
 		System.out.println("praveen");
                 System.out.println("currently pursuing btech 3rd year in nitc");
-
+                System.out.println("kumar");
 	}
 
 }
